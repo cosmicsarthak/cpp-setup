@@ -1,1 +1,0 @@
-{"name":"Local: Try","url":"/home/sarthak-hp/Music/Java tests/Try.java","tests":[{"id":1631032302559,"input":"25    556   65  69 21 565 5565 45\n565","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarthak-hp/Music/Java tests/Try.java","group":"local","local":true}

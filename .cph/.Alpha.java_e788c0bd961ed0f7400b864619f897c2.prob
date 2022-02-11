@@ -1,1 +1,0 @@
-{"name":"Local: Alpha","url":"/home/sarthak-hp/Music/Java tests/Alpha.java","tests":[{"id":1630779191270,"input":"4\n2 4 6 8 10 12\n4 5 6 7 8 9\n1 2 2 2 51 5  \n56 5 15 5 56 5","output":"true / false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/sarthak-hp/Music/Java tests/Alpha.java","group":"local","local":true}
